@@ -107,21 +107,3 @@
 [![](https://visitcount.itsvg.in/api?id=halilkilicarslan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
