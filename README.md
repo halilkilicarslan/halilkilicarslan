@@ -97,10 +97,14 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=halilkilicarslan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=halilkilicarslan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=halilkilicarslan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=halilkilicarslan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=halilkilicarslan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## Recent Blog Posts  
@@ -119,5 +123,5 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
