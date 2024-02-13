@@ -7,9 +7,7 @@
   
 
 - 🔭 I’m currently working on Rightyon  
-  
-
-- 🌱 I’m currently learning Flutter  
+    
   
 
 <br/>  
